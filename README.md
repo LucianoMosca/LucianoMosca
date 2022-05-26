@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luciano Mosca and I'm from Uruguay!
 - 👀 I’m interested in coding, martial arts and dogs!
-- 🌱 I’m currently learning mobile app's development.
-- 💞️ I’m looking to collaborate on everything that I can help.
+- 🌱 I'm currently studying for a bachelor's degree in IT at the Technological University of Uruguay (UTEC).”
+- 💞️ I’m always open to collaborate in new projects!
 - 📫 You can contact me trough my email! lmd62018@gmail.com
 
 <!---
